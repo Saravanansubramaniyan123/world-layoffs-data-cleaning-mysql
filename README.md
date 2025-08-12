@@ -18,7 +18,7 @@ MySQL, Data Cleaning, Window Functions, String Functions, Joins, Date Handling
 - *(Optional)* layoffs.csv – Dataset used for cleaning.
 
 ## 📸 Output
-(Add a screenshot of your cleaned table or query result here)
+<img width="1420" height="468" alt="image" src="https://github.com/user-attachments/assets/25b58e6f-e9d8-40e1-a173-0ba289ff890d" />
 
 ---
 
